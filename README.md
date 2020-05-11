@@ -10,5 +10,13 @@ To save time on computations you can inject the singleton of this project into y
 
 ## Levenshtein Distance Algorithm Definition
 
+<a href="https://en.wikipedia.org/wiki/Levenshtein_distance">Read More about it here</a>
 <img href="levenshtein-definition.png">
 
+## Library Features
+ - Map properties between models / classes by convention (Set as the default).
+ - Map properties between models by sentiment (which takes a parameter.)
+ - Cache your mapping results to save computational expense.
+ - Just use your mapping. No need to declare it beforehand.
+ - Compare the similarity of model data like name, surname, skillsets etc...
+ 
